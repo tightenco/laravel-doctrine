@@ -12,12 +12,12 @@
     "require": {
         "php": ">=5.4.0",
         "illuminate/support": ">=5.0",
-        "doctrine/orm": "2.5.*",
-        "doctrine/migrations": "1.*"
+        "doctrine/orm": "*",
+        "doctrine/migrations": "*"
     },
 	"require-dev": {
-		"mockery/mockery": "dev-master",
-		"phpunit/phpunit": "3.7.*"
+		"mockery/mockery": "*",
+		"phpunit/phpunit": "*"
 	},
     "autoload": {
         "psr-4": {
